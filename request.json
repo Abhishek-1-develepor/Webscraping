@@ -1,0 +1,785 @@
+{
+  
+  "data": {
+    "from": {
+      "code": "UJN",
+      "name": "Ujjain Junction"
+    },
+    "to": {
+      "code": "INDB",
+      "name": "Indore Junction"
+    },
+    "trains": [
+      {
+        "train": {
+          "number": "19304",
+          "name": "Bhopal - Indore Express",
+          "type": "Mail/Express",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "03:05",
+          "day": 2,
+          "sequence": 28
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "04:45",
+          "day": 2,
+          "sequence": 40
+        },
+        "distance": 82,
+        "duration": 100,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "22646",
+          "name": "Ahilya Nagari SF Express",
+          "type": "Superfast Express",
+          "runDays": [
+            "sat"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "03:15",
+          "day": 3,
+          "sequence": 410
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "05:05",
+          "day": 3,
+          "sequence": 422
+        },
+        "distance": 82,
+        "duration": 110,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "19309",
+          "name": "Indore Junction SHANTI EXPRESS",
+          "type": "Mail/Express",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "03:50",
+          "day": 2,
+          "sequence": 78
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "05:45",
+          "day": 2,
+          "sequence": 90
+        },
+        "distance": 82,
+        "duration": 115,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "12974",
+          "name": "Indore SF Express",
+          "type": "Superfast Express",
+          "runDays": [
+            "fri",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "04:45",
+          "day": 2,
+          "sequence": 64
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "06:25",
+          "day": 2,
+          "sequence": 76
+        },
+        "distance": 82,
+        "duration": 100,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "19316",
+          "name": "Veer Bhumi Express",
+          "type": "Mail/Express",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "05:00",
+          "day": 2,
+          "sequence": 84
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "07:00",
+          "day": 2,
+          "sequence": 96
+        },
+        "distance": 82,
+        "duration": 120,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "21126",
+          "name": "Bhind - Ratlam Express",
+          "type": "Mail/Express",
+          "runDays": [
+            "wed",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "05:17",
+          "day": 2,
+          "sequence": 51
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "07:00",
+          "day": 2,
+          "sequence": 63
+        },
+        "distance": 83,
+        "duration": 103,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "69211",
+          "name": "Ujjain - Indore Passenger",
+          "type": "MEMU",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "06:00",
+          "day": 1,
+          "sequence": 1
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "07:55",
+          "day": 1,
+          "sequence": 9
+        },
+        "distance": 62,
+        "duration": 115,
+        "totalHaltsBetween": 6
+      },
+      {
+        "train": {
+          "number": "14116",
+          "name": "Dr. Ambedkar Nagar Express",
+          "type": "Mail/Express",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "06:50",
+          "day": 2,
+          "sequence": 96
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "08:25",
+          "day": 2,
+          "sequence": 104
+        },
+        "distance": 62,
+        "duration": 95,
+        "totalHaltsBetween": 0
+      },
+      {
+        "train": {
+          "number": "20415",
+          "name": "Kashi Mahakal SF Express",
+          "type": "Superfast Express",
+          "runDays": [
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "07:15",
+          "day": 2,
+          "sequence": 138
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "09:00",
+          "day": 2,
+          "sequence": 146
+        },
+        "distance": 62,
+        "duration": 105,
+        "totalHaltsBetween": 0
+      },
+      {
+        "train": {
+          "number": "12961",
+          "name": "Avantika SF Express",
+          "type": "Superfast Express",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "07:35",
+          "day": 2,
+          "sequence": 128
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "09:05",
+          "day": 2,
+          "sequence": 140
+        },
+        "distance": 82,
+        "duration": 90,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "59306",
+          "name": "Ujjain - Indore Passenger",
+          "type": "Passenger",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "08:10",
+          "day": 1,
+          "sequence": 1
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "10:30",
+          "day": 1,
+          "sequence": 13
+        },
+        "distance": 82,
+        "duration": 140,
+        "totalHaltsBetween": 8
+      },
+      {
+        "train": {
+          "number": "12416",
+          "name": "Indore Intercity SF Express",
+          "type": "Superfast Express",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "08:25",
+          "day": 2,
+          "sequence": 102
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "10:05",
+          "day": 2,
+          "sequence": 114
+        },
+        "distance": 82,
+        "duration": 100,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "18234",
+          "name": "Narmada Express",
+          "type": "Mail/Express",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "08:50",
+          "day": 2,
+          "sequence": 114
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "10:55",
+          "day": 2,
+          "sequence": 126
+        },
+        "distance": 82,
+        "duration": 125,
+        "totalHaltsBetween": 3
+      },
+      {
+        "train": {
+          "number": "20156",
+          "name": "Dr. Ambedkar Nagar SF Express",
+          "type": "Superfast Express",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "10:25",
+          "day": 2,
+          "sequence": 103
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "12:00",
+          "day": 2,
+          "sequence": 115
+        },
+        "distance": 82,
+        "duration": 95,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "09079",
+          "name": "Indore Special Fare AC SF Summer Special",
+          "type": "Train on Demand",
+          "runDays": [
+            "tue",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "10:55",
+          "day": 2,
+          "sequence": 113
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "13:00",
+          "day": 2,
+          "sequence": 121
+        },
+        "distance": 82,
+        "duration": 125,
+        "totalHaltsBetween": 0
+      },
+      {
+        "train": {
+          "number": "12920",
+          "name": "Malwa SF Express",
+          "type": "Superfast Express",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "11:35",
+          "day": 2,
+          "sequence": 228
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "13:35",
+          "day": 2,
+          "sequence": 240
+        },
+        "distance": 82,
+        "duration": 120,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "11703",
+          "name": "Dr. Ambedkar Nagar Express",
+          "type": "Mail/Express",
+          "runDays": [
+            "tue",
+            "thu",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "12:30",
+          "day": 2,
+          "sequence": 90
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "14:15",
+          "day": 2,
+          "sequence": 102
+        },
+        "distance": 82,
+        "duration": 105,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "69213",
+          "name": "Ujjain - Indore Passenger",
+          "type": "MEMU",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "16:00",
+          "day": 1,
+          "sequence": 1
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "17:40",
+          "day": 1,
+          "sequence": 9
+        },
+        "distance": 62,
+        "duration": 100,
+        "totalHaltsBetween": 6
+      },
+      {
+        "train": {
+          "number": "59387",
+          "name": "Nagda - Indore Passenger",
+          "type": "Passenger",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "17:30",
+          "day": 1,
+          "sequence": 10
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "19:50",
+          "day": 1,
+          "sequence": 22
+        },
+        "distance": 82,
+        "duration": 140,
+        "totalHaltsBetween": 8
+      },
+      {
+        "train": {
+          "number": "12466",
+          "name": "Ranthambhore SF Express",
+          "type": "Superfast Express",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "19:20",
+          "day": 1,
+          "sequence": 109
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "21:05",
+          "day": 1,
+          "sequence": 121
+        },
+        "distance": 82,
+        "duration": 105,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "09310",
+          "name": "Indore Special Fare SF Special",
+          "type": "Train on Demand",
+          "runDays": [
+            "mon",
+            "sat"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "19:25",
+          "day": 1,
+          "sequence": 99
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "21:00",
+          "day": 1,
+          "sequence": 111
+        },
+        "distance": 82,
+        "duration": 95,
+        "totalHaltsBetween": 1
+      },
+      {
+        "train": {
+          "number": "20915",
+          "name": "Indore Humsafar Express",
+          "type": "Superfast Express",
+          "runDays": [
+            "sun"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "22:10",
+          "day": 2,
+          "sequence": 178
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "00:15",
+          "day": 3,
+          "sequence": 186
+        },
+        "distance": 82,
+        "duration": 125,
+        "totalHaltsBetween": 0
+      },
+      {
+        "train": {
+          "number": "20912",
+          "name": "Indore Vande Bharat Express",
+          "type": "Vande Bharat Express",
+          "runDays": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat"
+          ]
+        },
+        "from": {
+          "code": "UJN",
+          "name": "Ujjain Junction",
+          "city": "Ujjain",
+          "departure": "22:45",
+          "day": 1,
+          "sequence": 74
+        },
+        "to": {
+          "code": "INDB",
+          "name": "Indore Junction",
+          "city": "Indore",
+          "arrival": "23:50",
+          "day": 1,
+          "sequence": 82
+        },
+        "distance": 62,
+        "duration": 65,
+        "totalHaltsBetween": 0
+      }
+    ],
+    "count": 23
+  },
+  "meta": {
+    "timestamp": "2026-07-12T14:18:56+05:30",
+    "traceId": "b198300e-54cc-4a55-af74-445ac786bc1f",
+    "source": "database",
+    "executionTime": 16
+  }
+}
